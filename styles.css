@@ -1,0 +1,56 @@
+body{
+    text-align: center;   
+}
+
+.darkMode{
+    font-family: Geneva;
+    padding:10px;
+    background-color:rgb(0, 0, 0);
+    color:wheat;
+    margin:10px;
+}
+
+.dayMode{
+    font-family: Geneva;
+    padding:10px;
+    background-color:rgb(255, 250, 210);
+    color:rgb(0, 0, 0);
+    margin:10px;
+}
+
+
+.number{
+
+    position: absolute;
+    background-color: antiquewhite;
+    color:brown;
+    padding-left: 10%;
+    margin-left:45%;
+    padding:30px;
+    font-size: 50px;
+}
+
+.userInput,.btn-click{
+    font-family: Geneva;
+    padding:10px;
+    margin-top:160px;
+}
+
+p{
+    
+    font-size: 150%;
+}
+
+hr{
+    margin-top: 5%;
+}
+
+.btn-again{
+    font-family: Geneva;
+    padding:10px;
+
+}
+
+footer{
+    margin-top:40px;
+}
